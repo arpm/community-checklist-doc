@@ -1,6 +1,7 @@
-site_name: My Docs
+site_name: Community Checklist Docs
 dev_addr: 127.0.0.1:8001
+nav:
+  - Home: index.md
+  - Go to Community Checklist: https://communitychecklist.org
 theme:
-  name: null
-  custom_dir: cinder-1.2.0/cinder/
-  colorscheme: monokai
+  name: material
