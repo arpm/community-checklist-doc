@@ -1,10 +1,10 @@
 # How to create an enrollment for an existing checklist
 ## Requirements
-* [Signed Up](sign_up.md)
+<!-- * [Signed Up](sign_up.md) -->
 * [Logged In](log_in.md)
 * One of the following:
   * [Imported Checklist](import_checklist.md)
-  * [Created Checklist](create_checklist.md)
+  <!-- * [Created Checklist](create_checklist.md) -->
 ## Steps
 1. Once successfully logged in, click on "Checklists" to access your team's checklists.  
 ![Dashboard](img/create_enrollment/1_dashboard.png)
