@@ -1,4 +1,5 @@
-# How to import a Community Checklist
+# Import Checklist
+### How to import a Community Checklist
 ## Requirements
 <!-- * [Signed Up](sign_up.md) -->
 * [Logged In](log_in.md)

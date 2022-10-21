@@ -1,4 +1,5 @@
-# How to create an enrollment for an existing checklist
+# Create Enrollment
+### How to create an enrollment for an existing checklist
 ## Requirements
 <!-- * [Signed Up](sign_up.md) -->
 * [Logged In](log_in.md)

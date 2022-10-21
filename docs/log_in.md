@@ -1,4 +1,5 @@
-# How to log into Community Checklist
+# Log In
+### How to log into Community Checklist
 ## Requirements
 <!-- * [Signed Up](sign_up.md) -->
 ## Steps

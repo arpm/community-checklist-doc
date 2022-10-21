@@ -1,4 +1,5 @@
-# How to complete a Checklist Enrollment
+# Complete Enrollment
+### How to complete a Checklist Enrollment
 ## Requirements
 <!-- * [Signed Up](sign_up.md) -->
 * [Logged In](log_in.md)
