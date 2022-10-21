@@ -3,5 +3,12 @@ dev_addr: 127.0.0.1:8001
 nav:
   - Home: index.md
   - Go to Community Checklist: https://communitychecklist.org
+  - Articles:
+    - Log in: log_in.md
+    - Import checklist: import_checklist.md
+    - Create enrollment: create_enrollment.md
+    - Complete enrollment: complete_sabbatical_application_enrollment.md
 theme:
   name: material
+  features:
+    - navigation.sections
