@@ -1,14 +1,15 @@
-site_name: Community Checklist Docs
+site_name: checkology.io Docs
 dev_addr: 127.0.0.1:8001
-nav:
-  - Home: index.md
-  - Go to Community Checklist: https://communitychecklist.org
-  - Articles:
-    - Log in: log_in.md
-    - Import checklist: import_checklist.md
-    - Create enrollment: create_enrollment.md
-    - Complete enrollment: complete_sabbatical_application_enrollment.md
 theme:
   name: material
   features:
     - navigation.sections
+nav:
+  - Home: index.md
+  - Go to checkology.io: https://checkology.io
+  - Articles:
+    - How to Sign Up: sign_up.md
+    - How to Log In: log_in.md
+    - How to Import a Checklist: import_checklist.md
+    - How to Create an Enrollment: create_enrollment.md
+    - How to Complete an Enrollment: complete_enrollment.md
